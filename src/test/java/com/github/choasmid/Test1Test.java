@@ -7,7 +7,6 @@ import static org.junit.Assert.*;
 public class Test1Test {
     @Test
     public void getType() throws Exception {
-
     }
 
 }
